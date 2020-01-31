@@ -7,12 +7,15 @@ toppro.io是一个云端的工作平台，于2018年正式开始运营，从诞�
 > toppro坚信，传统雇佣制时代正在结束，而自由工作者时代正在到来。愿和优秀的人才和企业携手合作，开创这个新的时代。
 
 
+## 最佳实践
+- [toppro - 云端研发团队 - 协同能力 - 最佳实践](https://jiker.feishu.cn/docs/doccnf0CTX58lnioXs4o0lYSNTg#)
+
 
 ## 理念篇
 - [Remote : Office Not Required](http://37signals.com/remote/)
 
 ## 工具篇
-离不开工作的支撑，按照类别将工具列举如下
+按照类别汇总可能用到的工具，可以基于需要自行选择。
 
 ### 沟通工具
 - [飞书](https://www.feishu.cn/) 
@@ -53,7 +56,7 @@ toppro.io是一个云端的工作平台，于2018年正式开始运营，从诞�
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 
 
-## 最佳实践
+## 相关资料
 将一些实践的文章列举在这里，大家可以快速的参考，借鉴需要的经验。
 
 ### 图文
