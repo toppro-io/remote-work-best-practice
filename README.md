@@ -63,9 +63,11 @@ toppro.io于2018年正式开始运营，就像在其[关于我们 - 传统雇用
 将一些实践的文章列举在这里，大家可以快速的参考，借鉴需要的经验。
 
 ### 图文
+- [左耳朵耗子：疫情下的远程办公，聊聊我的经验和实践](https://mp.weixin.qq.com/s/frMxPrhg9TjqcS_aSJMnVQ)
 - [Slasify 的远程工作实战小贴士]( https://zhuanlan.zhihu.com/p/104434567)
 - [如何打造一个高效的分布式研发团队](https://mp.weixin.qq.com/s/DG1ON8zSFn-_lBPnsfJIQQ)
 - [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
+
 - [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/) by Colin Ross, Chief back-end at Buffer.
 - [A Day in the Life of a Remote Developer](http://remotenation.co/blog/a-day-in-the-life-of-a-remote-developer) by Josh Black, a software engineer working at [CramerDev](http://cramerdev.com/), based in US.
 - [Working As A Remote Contract Code Monkey](https://coderwall.com/p/0ikc0w/working-as-a-remote-contract-code-monkey?p=1&q=author%3Alee101) by Lee Penkman, a software engineer, live in New Zealand and work remotely for a firm in Australia.
@@ -79,7 +81,10 @@ toppro.io于2018年正式开始运营，就像在其[关于我们 - 传统雇用
 
 ## 其他
 - [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [Working remotely](https://github.com/lenazun/working-remotely/blob/master/ideas.md)
+- [remote-working](https://github.com/greatghoul/remote-working)
 
 
 ## 云端团队 - 实践者 - 交流群
-![扫描进群](img/wechat-1.jpeg)
+![扫描进群](img/wechat-2.jpeg)
