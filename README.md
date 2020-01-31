@@ -83,5 +83,5 @@ toppro.io是一个云端的工作平台，于2018年正式开始运营，从诞�
 - [remote-working](https://github.com/greatghoul/remote-working)
 
 
-## 云端团队 - 实践者 - 交流群
+## 交流群
 ![扫描进群](img/wechat-2.jpeg)
